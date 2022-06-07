@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' 
 global.linkGC = []
-global.owner = ['5219996125657']
+global.owner = ['5217736826844']
 global.mods = [] 
 global.prems = [] 
 global.APIs = { 
